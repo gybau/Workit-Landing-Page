@@ -26,10 +26,12 @@
 }
 html,
 body {
+  overflow-x: hidden;
 }
 
 .wrapper {
   overflow-x: hidden;
+  position: relative;
 }
 
 h1 {
